@@ -1,0 +1,4 @@
+// The program input for rockpaperscissors/src/main.leo
+[determine_winner]
+player1: Move = Move { choice: 1u8 };
+player2: Move = Move { choice: 3u8 };
