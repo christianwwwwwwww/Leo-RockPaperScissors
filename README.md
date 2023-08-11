@@ -13,8 +13,3 @@ To execute this Aleo program, edit the `rockpaperscissors.in` inputs file with y
 ```bash
 leo execute determine_winner
 ```
-
-Alternatively, you can provide input via the command line:
-```bash
-leo execute determine_winner <input_1> <input_2>
-```
