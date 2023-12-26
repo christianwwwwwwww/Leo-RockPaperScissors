@@ -9,7 +9,9 @@ To compile this Aleo program, run:
 leo build
 ```
 
-To execute this Aleo program, edit the `rockpaperscissors.in` inputs file with your desired choices. Then, run:
+To execute this Aleo program, edit the `rockpaperscissors.in` inputs file with your desired choices. Then run:
 ```bash
 leo execute determine_winner
 ```
+
+
